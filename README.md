@@ -5,7 +5,7 @@ A Python analysis of 1,205 unicorn companies (privately held start-ups valued at
 | | |
 |---|---|
 | **Scope** | Data cleaning, feature engineering, statistical analysis, visualisation, written report, and a verification pass on the conclusions |
-| **Context** | ESCP Business School, *Key Scientific and Technological Issues in Business*, spring 2025. Submitted as a group assignment with no formal division of tasks; I wrote the Python analysis and most of the report. |
+| **Course** | ESCP Business School, *Key Scientific and Technological Issues in Business*, spring 2025 |
 | **Data** | 1,205 unicorn companies, 2007 to 2022 join dates, 7 raw fields |
 | **Tools** | Python (pandas, matplotlib, seaborn), Jupyter |
 
